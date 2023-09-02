@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{D12F4D2B-DE6E-D703-5E62-868E5705B45F}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CrashDetector.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="57" Column="25" />
+      <File FileName="Assets/Scripts/CrashDetector.cs" Line="5" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SSX" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scenes" expanded="True" />
+              <Node name="Scripts" expanded="True" />
+            </Node>
+            <Node name="Packages" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="abbf2a9b-1012-42e1-89e6-a6e410ac291e" />
+</Properties>
